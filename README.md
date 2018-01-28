@@ -1,2 +1,2 @@
 # c_practice
-Practice C language
+Practice C language sometimes.
